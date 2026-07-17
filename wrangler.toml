@@ -1,5 +1,5 @@
 name = "60s-console"
-main = "worker.js"
+main = "_worker.js"
 compatibility_date = "2025-07-17"
 
 workers_dev = true
